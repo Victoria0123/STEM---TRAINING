@@ -5,7 +5,8 @@ installing python
 ## Day Two
 manipulating data types
 building a simple calculator
-## Day Three boolean operations
+## Day Three
+boolean operations
 building a complex calculator
 ### Day Four
 control flow
