@@ -2,12 +2,12 @@
 ## Day One
 learning markdown
 installing python
-## Day two
+## Day Two
 manipulating data types
 building a simple calculator
-## Day three boolean operations
+## Day Three boolean operations
 building a complex calculator
-### Day four
+### Day Four
 control flow
 if statements
 else, elif
@@ -32,3 +32,7 @@ append method
 dictionaries in python
 my dict
 eg "books"="dynamics"
+## Day Eight
+object oriented programming
+defining a class and its attributes
+class methods
