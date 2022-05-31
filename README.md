@@ -44,6 +44,6 @@ Graphical User Input
 importing programmes
 creating buttons
 ## Day Ten
-classes
+calendars
 mathfunctions
 modules
