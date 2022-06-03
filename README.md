@@ -49,4 +49,7 @@ mathfunctions
 modules
 ## Day Eleven
 getting text imput
- 
+## Day Twelve
+exceptions
+else 
+finally
