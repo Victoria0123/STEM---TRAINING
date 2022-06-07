@@ -1,0 +1,13 @@
+"""
+create one function (and run it) that
+does the following:
+ - For a range of integers
+  between 0 and n (inclusive),
+  if the number is an even number, 
+  half it
+  if the number is an odd number,
+  double it
+  -For the output generated in the 
+  previous function, write the results
+  to a file.name the file 'results.txt
+  """
