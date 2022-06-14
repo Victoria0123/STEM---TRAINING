@@ -70,3 +70,9 @@ LED
 resistors
 potentiometer
 ## Day Seventeen
+
+## Day Eighteen
+bread board
+microcontroller
+## Day Nineteen
+controlling brightness of LED
