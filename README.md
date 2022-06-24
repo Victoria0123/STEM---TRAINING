@@ -84,3 +84,6 @@ controlling brightness of LED
 ## Day Twenty Five
 IOT-internet of things
 connecting to the internet
+## Day Twenty Six
+raspberry pi pico
+blinking LEDs
