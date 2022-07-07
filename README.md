@@ -87,3 +87,12 @@ connecting to the internet
 ## Day Twenty Six
 raspberry pi pico
 blinking LEDs
+## Day Twenty Seven
+## Day Twenty Eight
+## Day Twenty Nine
+## Day Thirty
+## Day Thirty One
+## Day Thirty Two
+## Day Thirty Three
+## Day Thirty Four
+## Day Thirty Five
